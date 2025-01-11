@@ -17,3 +17,7 @@ console.log("Latest change");
 //  i am fixing some bugs
 
 console.log("i have fixed bugs");
+
+//  adding QR scanning facility
+const Qr="QR feature added";
+console.log(Qr);

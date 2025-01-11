@@ -6,3 +6,8 @@ console.log("Login Added");
 
 const footer ="Footer added in our page";
 console.log(footer);
+const payment ="payment added";
+console.log("payment page added");
+
+const upi ="integrated upi also";
+console.log(upi);
